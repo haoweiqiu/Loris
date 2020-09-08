@@ -1,4 +1,3 @@
-import swal from 'sweetalert2';
 /**
  * Instrument selection confirmation message
  *
