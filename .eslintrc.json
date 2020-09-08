@@ -67,6 +67,7 @@
     "React": true,
     "ReactDOM": true,
     "loris": true,
-    "QueryString": true
+    "QueryString": true,
+	"swal": true
   }
 }
