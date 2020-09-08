@@ -1,10 +1,11 @@
+import swal from 'sweetalert2';
 /**
  * Instrument selection confirmation message
  *
  * @param {object} event
  */
 function swalFunction(event) {
-  swal({
+  swal.fire({
     title: 'Please confirm deletion',
     text: 'The instrument data will be deleted',
     type: 'warning',
